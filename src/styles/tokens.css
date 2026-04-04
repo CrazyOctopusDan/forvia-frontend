@@ -1,0 +1,12 @@
+:root {
+  --bg-main: #0a1726;
+  --bg-panel: #102138;
+  --bg-panel-soft: #16304f;
+  --line: #2f4f73;
+  --text-primary: #e8f3ff;
+  --text-secondary: #9cb9d5;
+  --accent: #3dc6ff;
+  --warn: #ffd45d;
+  --alarm: #ff5b6b;
+  --ok: #28c7a2;
+}
