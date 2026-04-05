@@ -2,6 +2,9 @@
   --bg-main: #0a1726;
   --bg-panel: #102138;
   --bg-panel-soft: #16304f;
+  --bg-menu: #0d1f35;
+  --bg-control: #16304f;
+  --bg-control-hover: #1b3b5f;
   --line: #2f4f73;
   --text-primary: #e8f3ff;
   --text-secondary: #9cb9d5;
@@ -9,4 +12,22 @@
   --warn: #ffd45d;
   --alarm: #ff5b6b;
   --ok: #28c7a2;
+  --overlay-glow: rgba(61, 198, 255, 0.15);
+}
+
+:root[data-theme='light'] {
+  --bg-main: #ecf4ff;
+  --bg-panel: #ffffff;
+  --bg-panel-soft: #e7f0ff;
+  --bg-menu: #dde9ff;
+  --bg-control: #f5f9ff;
+  --bg-control-hover: #eaf2ff;
+  --line: #9ab5db;
+  --text-primary: #10213b;
+  --text-secondary: #4a6283;
+  --accent: #0a86ff;
+  --warn: #b48400;
+  --alarm: #cf3245;
+  --ok: #1f8d74;
+  --overlay-glow: rgba(10, 134, 255, 0.12);
 }
